@@ -4,6 +4,8 @@
 <img width=”200" height=”200" src=”https://drive.google.com/file/d/1ajIeWqLdZJgp4WULSoBvanbEpcKSid2P/view?usp=drive_link" alt=”my banner”>
 </p>
 
+  <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1ajIeWqLdZJgp4WULSoBvanbEpcKSid2P/view?usp=drive_link">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobenapao01&theme=synthwave&show_icons=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
