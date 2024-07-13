@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8084F7&random=false&width=435&lines=HI+THERE%2C+I'M+JOBEN%2C+A+WEB+DEVELOPER)](https://git.io/typing-svg)
-[![MasterHead][https://drive.google.com/file/d/1ajIeWqLdZJgp4WULSoBvanbEpcKSid2P/view?usp=drive_link(https://github.com/jobenapao01)
+
+<p align=”center”>
+<img width=”200" height=”200" src=”https://drive.google.com/file/d/1ajIeWqLdZJgp4WULSoBvanbEpcKSid2P/view?usp=drive_link" alt=”my banner”>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobenapao01&theme=synthwave&show_icons=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
